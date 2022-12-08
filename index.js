@@ -1,1 +1,1 @@
-document.getElementById("App").textContent = "Testing the magic"
+document.getElementById("App").innerHTML = "<h1>Testing the magic</h1>";
