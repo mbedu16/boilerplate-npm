@@ -1,5 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"Description": "A taster before the big feast of information about nodeJS and the Packets manager (npm)",
+	"author": "Mustapha Benbaziz",
+	"version": "1.0.0",
+	"keywords": ["NodeJS", "NPM", "Dependencies", "Package.json"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -9,6 +13,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/mbedu16/boilerplate-npm.git"
 	}
 }
