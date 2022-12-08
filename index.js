@@ -1,0 +1,1 @@
+document.getElementById("App").textContent = "Testing the magic"
